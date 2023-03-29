@@ -8,8 +8,6 @@
 /**
  * C module that makes C users' life easier, in the pythonic way.
  * 
- * By Matej Hurka and Martin Zezula 
- * created for GVID 
  * 2023
 */
 
